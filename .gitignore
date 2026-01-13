@@ -1,0 +1,23 @@
+# Environment Variables
+.env
+.venv
+env/
+venv/
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Docker
+docker-compose.override.yml
+
+# Backend Data
+backend/data/
+/tmp/
